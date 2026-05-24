@@ -36,23 +36,6 @@ flutter run -d chrome
 - Espaco ou Enter: Iniciar novo jogo
 - Clique na tela: Iniciar novo jogo
 
-## Estrutura do Projeto
-
-lib/
-├── main.dart
-└── src/
-├── brick_breaker.dart
-├── config.dart
-├── components/
-│ ├── ball.dart
-│ ├── bat.dart
-│ ├── brick.dart
-│ └── play_area.dart
-└── widgets/
-├── game_app.dart
-├── score_card.dart
-└── overlay_screen.dart
-
 
 ## Tecnologias
 - Flutter
