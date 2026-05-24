@@ -22,18 +22,18 @@ O objetivo e controlar uma plataforma para rebater uma bola e quebrar todos os b
 ### Passos
 
 git clone https://github.com/MayaraVieiraa/brick-breaker-game.git
+
 cd brick-breaker-game
+
 flutter pub get
+
 flutter run -d chrome
 
 
 ## Como Jogar
 - Mouse: Arraste para mover o taco
-- 
 - Setas: Esquerda e direita para mover o taco
-- 
 - Espaco ou Enter: Iniciar novo jogo
-- 
 - Clique na tela: Iniciar novo jogo
 
 ## Estrutura do Projeto
