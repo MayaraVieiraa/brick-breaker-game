@@ -29,8 +29,11 @@ flutter run -d chrome
 
 ## Como Jogar
 - Mouse: Arraste para mover o taco
+- 
 - Setas: Esquerda e direita para mover o taco
+- 
 - Espaco ou Enter: Iniciar novo jogo
+- 
 - Clique na tela: Iniciar novo jogo
 
 ## Estrutura do Projeto
